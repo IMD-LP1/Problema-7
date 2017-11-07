@@ -6,7 +6,6 @@ DÚVIDAS
 2-d) Como a classe virtual faz ela ser compartilhada?
 2-e) Por que não pega?
 3-c)O que é amizade simétrica ou transitiva?
-5- Como funciona essa função copy?
 6-a)como funciona essa função "size_type" no FOR e o data.at(i) dentro do laço??
 
 */
