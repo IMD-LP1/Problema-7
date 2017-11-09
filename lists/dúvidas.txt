@@ -7,5 +7,9 @@ DÚVIDAS
 2-e) Por que não pega?
 3-c)O que é amizade simétrica ou transitiva?
 6-a)como funciona essa função "size_type" no FOR e o data.at(i) dentro do laço??
+7-b)Consultar se tá certo o uso de fill e setw.
+7-c)Consultar uso de iteradores.
+8- Que tipo de variáveis são "start" e "end"? Por que "end" armazena (data.end()) e assim que inicia o código usa "--end", não começaria pelo penúltimo item do vetor não?
+
 
 */
