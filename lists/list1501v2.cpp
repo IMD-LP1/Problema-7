@@ -9,13 +9,13 @@ int main()
 	map<string,int> counts{};
 	string word{};
 
-	while (getline(cin,word) && word != "."){             // O ponto seria a hora de parar de ler.
+	while (cin >> word){             
 		++counts[word];
 }
 
 	cout << "Lista: \n";
 	for (auto it : counts)
 	{
-		cout << it.first << " " << it.second << endl; 	 		// imprime a palavra e depois o número de vezes.
+		cout << it.first << " " << it.second << endl; 	 		
 	}
 }
